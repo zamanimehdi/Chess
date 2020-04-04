@@ -1,0 +1,10 @@
+bin\Debug\Chess.exe
+bin\Debug\Chess.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Chess.Properties.Resources.resources
+obj\Debug\Chess.csproj.GenerateResource.Cache
+obj\Debug\Chess.exe
+obj\Debug\Chess.pdb
+obj\Debug\Chess.frm_main.resources
+obj\Debug\Chess.selectbead.resources
+obj\Debug\Chess.AboutBox1.resources

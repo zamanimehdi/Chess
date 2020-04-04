@@ -1,0 +1,10 @@
+E:\Programing\Work Out\c#\Mine\Chess\Chess\obj\Debug\Chess.exe
+E:\Programing\Work Out\c#\Mine\Chess\Chess\obj\Debug\Chess.pdb
+E:\Programing\Work Out\c#\Mine\Chess\Chess\bin\Debug\Chess.exe
+E:\Programing\Work Out\c#\Mine\Chess\Chess\bin\Debug\Chess.pdb
+E:\Programing\Work Out\c#\Mine\Chess\Chess\obj\Debug\ResolveAssemblyReference.cache
+E:\Programing\Work Out\c#\Mine\Chess\Chess\obj\Debug\Chess.AboutBox1.resources
+E:\Programing\Work Out\c#\Mine\Chess\Chess\obj\Debug\Chess.frm_main.resources
+E:\Programing\Work Out\c#\Mine\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+E:\Programing\Work Out\c#\Mine\Chess\Chess\obj\Debug\Chess.selectbead.resources
+E:\Programing\Work Out\c#\Mine\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
